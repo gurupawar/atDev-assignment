@@ -49,7 +49,7 @@ Json -
 
 ## Fetch all students data
 
-method - POST
+method - GET
 
 ```
 http://localhost:8080/students
