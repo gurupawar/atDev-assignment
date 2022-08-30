@@ -49,12 +49,16 @@ Json -
 
 ## Fetch all students data
 
+method - POST
+
 ```
 http://localhost:8080/students
 
 ```
 
 ## update students data
+
+method - PUT
 
 ```
 http://localhost:8080/students
@@ -72,7 +76,7 @@ http://localhost:8080/students
 
 
 ## Delete Student by using by
-
+method - DELETE
 ```
 
 http://localhost:8080/students/16
