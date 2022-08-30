@@ -65,6 +65,7 @@ http://localhost:8080/students
 
 ```
 
+Json -
 ```
 {
 "stud_id": "16",
