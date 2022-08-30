@@ -17,7 +17,10 @@ and run the project
 # Mysql Database
 
 create "studentsdb" named table in mysql using query browser or cmd and add following fields.
+
+```
 stud_id
 stud_name
 stud_age
 stud_class
+```
