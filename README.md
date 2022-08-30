@@ -65,6 +65,7 @@ http://localhost:8080/students
 
 ```
 
+```
 {
 "stud_id": "16",
 "stud_name": "Druv",
@@ -77,10 +78,7 @@ http://localhost:8080/students
 
 ## Delete Student by using by
 method - DELETE
-```
 
+```
 http://localhost:8080/students/16
-
-```
-
 ```
