@@ -1,6 +1,4 @@
-## Development
-
-### Run locally
+# Run locally
 
 - Clone the Repo
 
@@ -25,7 +23,7 @@ stud_class
 
 and run the project.
 
-## Test RestAPI
+# Test RestAPI
 
 use Postman for testing api
 
@@ -47,5 +45,38 @@ Json -
         "stud_age": "18",
         "stud_class": "12th"
 }
+```
+
+## Fetch all students data
+
+```
+http://localhost:8080/students
+
+```
+
+## update students data
+
+```
+http://localhost:8080/students
+
+```
+
+{
+"stud_id": "16",
+"stud_name": "Druv",
+"stud_age": "19",
+"stud_class": "FYBSc"
+}
+
+```
+
+
+## Delete Student by using by
+
+```
+
+http://localhost:8080/students/16
+
+```
 
 ```
